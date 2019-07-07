@@ -1,0 +1,10 @@
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\bin\Debug\LAB_4_AI_CS_FORMS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\bin\Debug\LAB_4_AI_CS_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\bin\Debug\LAB_4_AI_CS_FORMS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\Lab4AI.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\Lab4AI.Integration.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\LAB_4_AI_CS_FORMS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\Lab4AI.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\Lab4AI.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\LAB_4_AI_CS_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab4AI\LAB_4_AI_CS_FORMS\obj\Debug\LAB_4_AI_CS_FORMS.pdb
