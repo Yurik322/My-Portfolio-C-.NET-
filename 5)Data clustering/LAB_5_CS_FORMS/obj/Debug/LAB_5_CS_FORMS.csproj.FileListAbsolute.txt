@@ -1,0 +1,42 @@
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.exe.config
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csprojResolveAssemblyReference.cache
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.Form1.resources
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.Properties.Resources.resources
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csproj.GenerateResource.Cache
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.dll.config
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.dll
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.MachineLearning.dll
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.Core.dll
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.dll
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Statistics.dll
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.xml
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.MachineLearning.xml
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.xml
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.Core.xml
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Statistics.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.dll.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\LAB_5_CS_FORMS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.dll
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.MachineLearning.dll
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.Core.dll
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.dll
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Statistics.dll
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.MachineLearning.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Math.Core.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\bin\Debug\Accord.Statistics.xml
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.Form1.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.csproj.CopyComplete
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Нова папка\LAB_5_CS_FORMS\LAB_5_CS_FORMS\obj\Debug\LAB_5_CS_FORMS.pdb
