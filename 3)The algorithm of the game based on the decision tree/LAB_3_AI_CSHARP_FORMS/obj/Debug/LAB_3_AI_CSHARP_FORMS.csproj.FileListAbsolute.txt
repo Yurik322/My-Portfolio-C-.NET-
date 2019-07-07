@@ -1,0 +1,29 @@
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe.config
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csprojResolveAssemblyReference.cache
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Properties.Resources.resources
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csproj.GenerateResource.Cache
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Form1.resources
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe.config
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csprojAssemblyReference.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Form1.resources
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Properties.Resources.resources
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csproj.GenerateResource.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csproj.CoreCompileInputs.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.exe
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_3_AI_CSHARP_FORMS\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\bin\Debug\LAB_3_AI_CSHARP_FORMS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab3AI\LAB_3_AI_CSHARP_FORMS\obj\Debug\LAB_3_AI_CSHARP_FORMS.Form1.resources

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab3AI", "LAB_3_AI_CSHARP_FORMS\Lab3AI.csproj", "{1797D880-CE83-4383-90CD-64AB5CB424DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1797D880-CE83-4383-90CD-64AB5CB424DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1797D880-CE83-4383-90CD-64AB5CB424DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1797D880-CE83-4383-90CD-64AB5CB424DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1797D880-CE83-4383-90CD-64AB5CB424DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24F7950C-4F22-4F2C-808D-0990455CCDFB}
+	EndGlobalSection
+EndGlobal
