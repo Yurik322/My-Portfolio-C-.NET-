@@ -1,0 +1,7 @@
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\bin\Debug\LAB_6_CS_AI.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\bin\Debug\LAB_6_CS_AI.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\bin\Debug\LAB_6_CS_AI.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\obj\Debug\Lab6AI.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\obj\Debug\Lab6AI.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\obj\Debug\LAB_6_CS_AI.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab6AI\LAB_6_CS_AI\obj\Debug\LAB_6_CS_AI.pdb
