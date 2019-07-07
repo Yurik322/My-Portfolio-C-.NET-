@@ -1,0 +1,53 @@
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.Cache
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+E:\4_SEMESTER\MATHEMATICAL_MODELS_OF_AI\LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojResolveAssemblyReference.cache
+F:\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojResolveAssemblyReference.cache
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+F:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.Cache
+G:\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+G:\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+G:\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojResolveAssemblyReference.cache
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+G:\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.Cache
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojResolveAssemblyReference.cache
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+C:\Users\CWorld\Desktop\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.Cache
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojResolveAssemblyReference.cache
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+P:\ВсІ КРІМ СЕВЕРИНЕНКА\Bozhukha\Штучний\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.Cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csprojAssemblyReference.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.AverageValues.resources
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.GenerateResource.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.csproj.CoreCompileInputs.cache
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+D:\MY PROGRAMS\НАВЧАННЯ\4 СЕМЕСТР\Відсортоване\!ШТУЧНИЙ\Штучний1\!Щось новеньке\!LABS\LAB_2_AI_CS\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb

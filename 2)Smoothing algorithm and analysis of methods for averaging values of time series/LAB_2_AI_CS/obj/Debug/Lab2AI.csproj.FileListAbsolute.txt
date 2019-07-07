@@ -1,0 +1,30 @@
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\Lab2AI.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI\LAB_2_AI_CS\obj\Debug\Lab2AI.AverageValues.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\Lab2AI.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\Lab2AI.AverageValues.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\Lab2AI;\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe.config
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\bin\Debug\LAB_2_AI_CS.pdb
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\Lab2AI.csprojAssemblyReference.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\Lab2AI.AverageValues.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.Properties.Resources.resources
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.GenerateResource.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\Lab2AI.csproj.CoreCompileInputs.cache
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.exe
+C:\Users\yura-\Documents\Visual Studio 2012\Projects\!AI\2)Smoothing algorithm and analysis of methods for averaging values of time series\LAB_2_AI_CS\obj\Debug\LAB_2_AI_CS.pdb
